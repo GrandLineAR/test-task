@@ -1,0 +1,12 @@
+.paginate {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  li {
+    padding: 10px;
+  }
+}
+.active {
+  background-color: darkcyan;
+  color: white;
+}
